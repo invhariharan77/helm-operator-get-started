@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: invhariharan/podinfo
-      tag: dev-hdtwcel9
+      tag: dev-nemklayj
     replicaCount: 1
     hpa:
       enabled: false
