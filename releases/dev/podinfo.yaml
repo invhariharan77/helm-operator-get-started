@@ -19,4 +19,4 @@ spec:
       tag: dev-anqnm94h
     replicaCount: 2
     hpa:
-      enabled: true
+      enabled: false
